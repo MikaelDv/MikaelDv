@@ -5,7 +5,7 @@
 - 🌎 Brazilian, PT-EN.
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikaeldv&theme=slateorange&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikaeldv&theme=slateorange&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaeldv&hide=html&layout=compact&theme=slateorange" />
 </div>
 
