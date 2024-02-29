@@ -1,4 +1,4 @@
-### 👋 Hii! I'm Mikael! 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007a00&random=false&width=435&lines=Hello%2C+I'm+Mikael!!" alt="Typing SVG" /></a>
 
 - 🚀 I’m currently estudying Technology in Systems Development & Analysis at FIAP.
 - 😄 Pronouns: He/Him
@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://beacons.ai/mikaeldev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikaeldv&theme=slateorange&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaeldv&hide=html&layout=compact&theme=slateorange" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikaeldv&theme=shadow_green&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaeldv&hide=html&layout=compact&theme=shadow_green" />
 </div>
 
 <div style="display: inline_block"><br>
