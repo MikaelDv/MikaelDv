@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007a00&random=false&width=435&lines=Hello%2C+I'm+Mikael!!" alt="Typing SVG" /></a>
 
-- 🚀 I’m currently estudying Technology in Systems Development & Analysis at FIAP.
+- 🚀 I’m currently estudying Technology in Analysis & Systems Development at FIAP.
 - 😄 Pronouns: He/Him
 - 🌎 Brazilian, PT-EN.
 
