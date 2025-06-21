@@ -1,6 +1,6 @@
 <a href="https://www.java.com/pt-BR/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C200&random=false&width=500&lines=System.out.println(%22Hello%2C+I'm+Mikael!!%22)" alt="Typing SVG"/></a>
 
-- 🚀 I’m currently estudying Technology in Analysis & Systems Development at FIAP.
+- 🚀 I’m currently estudying Software Engineering at FIAP.
 - 😄 Pronouns: He/Him
 - 🌎 Brazilian, PT-EN.
 - 👨‍💻 Discovering a new world while programming.
